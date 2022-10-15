@@ -6,7 +6,8 @@
 
 
 #### 📌 Experience
-- **boostcamp2020** (2020.07~)
+- **Boostcamp2020** (2020.07~2020.12)
+- **SSAFY** (2022.07~ing)
 
 <!--
 **mjseok/mjseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
