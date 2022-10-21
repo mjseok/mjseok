@@ -1,11 +1,13 @@
-### Hi there 👋
+# 석민지 GitHub 🐾📏
 
 
 #### ✨ GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjseok&show_icons=true&theme=radical)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mjseok98)](https://solved.ac/mjseok98)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=mjseok98&theme=dark)
 
-#### 📌 Experience
+## 📌 Experience
 - **Boostcamp2020** (2020.07~2020.12)
 - **SSAFY** (2022.07~ing)
 
